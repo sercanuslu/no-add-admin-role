@@ -1,2 +1,0 @@
-msgid "You are not allowed to assign the administrator role."
-msgstr "Yönetici rolünü atama yetkiniz yok."
